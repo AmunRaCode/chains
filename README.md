@@ -76,7 +76,7 @@ Other options for `status` are `active` (default) or `incubating`
 
 There are also aggregated json files with all chains automatically assembled:
  * https://chainid.network/chains.json
- * https://chainid.network/chains_mini.json (miniaturized - fewer fields for smaller filesize)
+ * https://chainid.network/chains_mini.json (miniaturized - fewer fields for smaller file size)
 
 ## Constraints
 
